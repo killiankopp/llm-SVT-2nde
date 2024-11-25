@@ -1,0 +1,9 @@
+"Quelques transformations du métabolisme dans une cellule hétérotrophe"
+
+Introduction sur le corps humain et les cellules hétérotrophes
+Description de la respiration cellulaire
+Dispositif expérimental pour étudier la respiration chez la levure
+Évolution de la concentration de trois molécules dans le bioréacteur
+Cellule musculaire au microscope
+Description des voies métaboliques dans une cellule musculaire (glucose, glycogène)
+Activité de la voie de dégradation du glycogène (tableau avec valeurs repos/exercice)
